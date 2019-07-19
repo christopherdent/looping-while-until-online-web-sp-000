@@ -1,5 +1,6 @@
 
 levitation_force = 6
+
 def using_while
 
   while levitation_force < 11
@@ -11,4 +12,3 @@ end
 
 levitation_force
 
-puts "is this on"
